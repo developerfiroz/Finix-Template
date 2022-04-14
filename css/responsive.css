@@ -1,0 +1,47 @@
+
+@media only screen and (max-width: 992px){
+    .navbar-brand {
+      padding-top: 0; 
+      margin-right: 0; 
+    }
+    ul.our-primary-menu{
+        margin-left: 5px;
+    }
+    ul.our-primary-menu li a {
+        padding: 10px 7px;
+    }
+    .header-call-info a {
+        font-weight: 400;
+    }
+    .header-button .btn-primary {
+        padding: 0  5px; 
+    }
+}
+@media only screen and (max-width: 768px){
+    .slider-content-wrap{
+        height: 55vh;
+    }
+    .slider-content h1 {
+        font-size: 45px;
+    }
+    .slider-content p {
+        font-size: 18px;
+    }
+    .header-social {
+        bottom: 30px;
+    }
+    .features-items {
+        margin-top: 20px;
+    }
+    .apply-now-htext {
+        width: 90vw;
+    }
+    .apply-now-ltext{
+        padding: 10px 0 !important;
+    }
+    .apply-now-ltext h2{
+        font-size: 25px !important;
+        font-weight: 400;
+        margin-bottom: 0 !important;
+    }
+}
